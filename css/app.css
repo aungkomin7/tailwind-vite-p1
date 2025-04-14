@@ -2,9 +2,9 @@
 
 @import "tailwindcss";
 
-body {
+/* body {
   background-color: #e5e5e5;
-}
+} */
 
 @theme {
   --font-sans: "DM Sans", sans-serif;
